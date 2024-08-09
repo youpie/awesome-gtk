@@ -77,6 +77,7 @@
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
+  - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
 - [Digital Forensics](#digital-forensics)
@@ -597,6 +598,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Inventory
 
 - [Jellybean](https://codeberg.org/turtle/jellybean) - Inventory manager with refill functions and a handy low-stock indicator `#vala` `#libadwaita`.
+
+### Chat Bots and Virtual assistants
+
+- [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#libadwaita`.
 
 ## Security and Privacy
 
