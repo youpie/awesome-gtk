@@ -137,7 +137,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
-- [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
+- [Gapless](https://gitlab.gnome.org/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#gtk4` `#libadwaita`.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lightweight modern music player designed to work excellently on the GNOME desktop environment with party mode, metadata fetching, MTP device sync and scrobbling `#python` `#gtk3` `#libhandy`.
