@@ -81,6 +81,7 @@
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
+  - [Cryptography](#cryptography)
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
@@ -630,6 +631,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
+
+### Cryptography
+
+- [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita`.
 
 ## Digital Forensics
 
