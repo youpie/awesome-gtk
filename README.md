@@ -71,6 +71,7 @@
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
   - [Translation](#translation)
+  - [Word Processors](#word-processors)
 - [Productivity](#productivity)
   - [Desktop Productivity](#desktop-productivity)
   - [Mind-mapping](#mind-mapping)
@@ -468,7 +469,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Office Suites
 
-- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office `#C++` `#gtk3`.
+- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office. Components: Word processor, spreadsheet editor, presentation program, graphics editor, math formulae editor, database application `#c++` `#gtk3`.
 
 ### Book Readers
 
@@ -554,6 +555,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Translation
 
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
+
+### Word Processors
+
+- [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 
 ## Productivity
 
