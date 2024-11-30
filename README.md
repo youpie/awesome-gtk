@@ -287,7 +287,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Drawing & Editing
 
-- [Annotator](https://github.com/phase1geo/annotator) - Image annotation application designed for elementary OS `#vala` `#gtk3` `#granite`.
+- [Annotator](https://github.com/phase1geo/annotator) - Image annotation application designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#gtk4` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
@@ -780,7 +780,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#gtk4` `#libadwaita`.
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Swiss knife of text processing `#vala` `#gtk4` `#libadwaita` `#gnome`.
-- [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#gtk3` `#granite`.
+- [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#gtk4` `#granite`.
 
 ### Toolboxes
 
